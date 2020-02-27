@@ -65,9 +65,18 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 15px;
 }
 
-.category-sports { margin-bottom: 0.5rem; background: var(--sports-color) }
-.category-ent {  margin-bottom: 0.5rem; background: var(--ent-color) }
-.category-tech {  margin-bottom: 0.5rem; background: var(--tech-color) }
+.category-sports { 
+  margin-bottom: 0.5rem; 
+  background: var(--sports-color) 
+}
+.category-ent { 
+   margin-bottom: 0.5rem; 
+   background: var(--ent-color)
+   }
+.category-tech {  
+  margin-bottom: 0.5rem; 
+  background: var(--tech-color)
+ }
 
 .btn {
   display: inline-block;
